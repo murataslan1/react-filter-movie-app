@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.jpg)
+
 
 # react-movie-filter-app
 
